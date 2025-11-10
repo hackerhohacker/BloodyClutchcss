@@ -1,5 +1,5 @@
 # GGO Kirito
-![Preview](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/refs/heads/master/Themes/GGO_Kirito/GGOThumbnail-1.4.0.PNG)
+![Preview](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/refs/heads/master/Themes/Bloody Clutch .png)
 
 
 ## Download
