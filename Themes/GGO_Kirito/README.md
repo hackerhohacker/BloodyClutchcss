@@ -1,6 +1,5 @@
 # GGO Kirito
-![Preview](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/refs/heads/master/Themes/BloodyClutch.png)
-
+![Preview](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/refs/heads/master/Themes/GGO_Kirito/BloodyClutch.png)
 
 ## Download
 There is 2 methods of downloading this theme, Direct download and Save Page As.
